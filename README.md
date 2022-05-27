@@ -1,1 +1,0 @@
-# osmancitci-offical-bot
